@@ -1,0 +1,30 @@
+.logo{
+    display: flex;
+    padding: 20px;
+    width: 50%;
+}
+
+.entel_logo{
+    width: auto;
+    max-height: 100px;
+}
+
+.information{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    margin-top: 10%;
+    font-size: 15px;
+    font-family: 'Barlow', sans-serif;
+}
+
+.image{
+    display: flex;
+    justify-content: end;
+    padding-top: 5%;
+}
+
+.decorative_logo{
+    width: auto;
+    max-height: 60%;
+}
