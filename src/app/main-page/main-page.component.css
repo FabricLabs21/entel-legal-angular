@@ -61,6 +61,10 @@
     cursor: pointer;
 }
 
+.espacio{
+    height: 50px;
+}
+
 @media (max-width: 768px) { 
 
     .blue-button{
@@ -69,5 +73,9 @@
 
     .text-title{
         font-size: 20px;
+    }
+
+    .espacio{
+        height: 2px;
     }
 }
